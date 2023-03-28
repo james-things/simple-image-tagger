@@ -14,7 +14,7 @@ class ImageTagger:
         self.root.geometry("800x600")
         self.root.title("simple image tagger")
 
-        self.display_panel = tk.Label(self.root, bd=1)
+        self.display_panel = tk.Label(self.root, bd=1, width=400, height=400, anchor="center")
         self.display_panel.pack(side=tk.TOP, fill=tk.BOTH, expand=True, padx=10, pady=10)
         self.display_panel.configure(background="#f2f2f2")
 
