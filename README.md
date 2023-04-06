@@ -1,6 +1,6 @@
 # simple-image-tagger
 
-### a simple (but performant!) little tkinter GUI to help you tag your dreambooth-style datasets
+### a simple (but performant!) little tkinter GUI to help tag image datasets
 
 **What it is:**
 
